@@ -9,6 +9,7 @@ try:
 except:
   os.system('pip install pyqrcode')
   os.system('pip install QRCode')
+  os.system('pip install pypng')
 
 
 def maneno(text):
